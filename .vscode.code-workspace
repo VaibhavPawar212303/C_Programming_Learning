@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../C Programming Learning/.vscode"
+		},
+		{
+			"name": "Array",
+			"path": "../C Programming Learning/Array"
+		},
+		{
+			"name": "Pointer",
+			"path": "../C Programming Learning/Pointer"
+		},
+		{
+			"name": "C_Programming_Learning",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
